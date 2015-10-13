@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=rmnewlines
+IAge=3
+Name=Remove new lines
+Description=A Python plugin for removing new lines
+Authors=Artūrs Jansons <a.jansons@gmail.com>
+Copyright=Copyright © 2015 Artūrs Jansons <a.jansons@gmail.com>
+Website=http://github.com/iegik
